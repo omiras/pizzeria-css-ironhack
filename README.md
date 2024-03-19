@@ -21,6 +21,4 @@ Nos piden usar los siguientes colores
 
 ## Imágenes de equipo
 
-Piden que las imágenes ocupen solo 100px de ancho, y esten redondeadas, como sucede en Linkedin. Podemos también añadir un borde fino negro alrededor de la imagen.
-
-Además, quieren que toda la sección de equipo tenga un fondo diferente, de color #FFC371; /* Amarillo suave para resaltar */
+Piden que las imágenes ocupen solo 100px de ancho. Además, quieren que toda la sección de equipo tenga un fondo diferente, de color #FFC371; /* Amarillo suave para resaltar */
