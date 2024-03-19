@@ -21,4 +21,7 @@ Nos piden usar los siguientes colores
 
 ## Imágenes de equipo
 
-Piden que las imágenes ocupen solo 100px de ancho. Además, quieren que toda la sección de equipo tenga un fondo diferente, de color #FFC371; /* Amarillo suave para resaltar */
+Piden que las imágenes ocupen solo 100px de ancho. Además, quieren que toda la sección 
+de equipo tenga un fondo diferente, de color #FFC371; /* Amarillo suave para resaltar */
+
+También nos piden que la sección de Historia y el footer tenga el mismo color de fondo #FFC371
