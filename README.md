@@ -8,7 +8,7 @@ Nos han pedido que el título de la Web esté en Comic Sans con 24px. Además, e
 
 ## Texto del resto de la Web
 
-Nos piden aplicar al tag body un tipo de fuente Verdana
+Nos piden aplicar al tag **body** un tipo de fuente Verdana
 
 ## Colores
 
@@ -21,6 +21,6 @@ Nos piden usar los siguientes colores
 
 ## Imágenes de equipo
 
-Piden que las imágenes ocupen solo 100px de ancho, y esten redondeadas, como sucede en Linkedin. Podemos también añadir un borde fino negro.
+Piden que las imágenes ocupen solo 100px de ancho, y esten redondeadas, como sucede en Linkedin. Podemos también añadir un borde fino negro alrededor de la imagen.
 
 Además, quieren que toda la sección de equipo tenga un fondo diferente, de color #FFC371; /* Amarillo suave para resaltar */
